@@ -1,10 +1,10 @@
 {
-    "name": "intelligentquantum.github.io",
+    "name": "samsonmamushet",
     "homepage": "https://intelligentquantum.github.io/",
     "author": {
-        "name": "IntelligentQuantum",
-        "email": "IntelligentQuantum@ProtonMail.Com",
-        "url": "https://intelligentquantum.github.io/"
+        "name": "samsonmamushet",
+        "email": "forsamisams@gmail.com",
+        "url": "https://samsonmamushet.netlify.app"
     },
     "version": "3.0.0",
     "private": true,
