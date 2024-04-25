@@ -10,7 +10,7 @@ const reducers = combineReducers({
 
 export const store = configureStore({
     reducer: reducers,
-    middleware: (getDefaultMiddleware) => getDefaultMiddleware(),
+    middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(logger as any),
     devTools: process.env.NODE_ENV !== 'production'
 });
 
